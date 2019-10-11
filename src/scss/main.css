@@ -1,0 +1,19 @@
+#canvas-container {
+    width: 100%;
+    text-align: center;
+}
+
+canvas {
+    background: #222;
+    display: inline;
+
+}
+
+#score {
+    padding: 20px;
+    top: 20px;
+    left: 20px;
+    z-index: 100;
+    font-weight: bold;
+    font-size: 20px;
+}
